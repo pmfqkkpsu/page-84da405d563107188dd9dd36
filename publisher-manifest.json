@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "212453665561c8f577678fe3",
+  "owner": "pmfqkkpsu",
+  "repo": "page-84da405d563107188dd9dd36",
+  "title": "天航",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "84da405d563107188dd9dd36",
+      "a": "天航",
+      "b": "机场官网线路发布页",
+      "entity": "天航",
+      "brand": "天航",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "125dc78b39111cb6eac5f33470cac3df1a1e1d4c555450d43354c47f25897d13",
+      "content": {
+        "primary_entity": "天航",
+        "keyword1": "天航",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，天航面向需要稳定跨境连接的用户，提供基础版、旗舰版与团队版三档订阅。基础版每月15元含100GB流量，旗舰版每月35元含300GB流量并搭载IPLC专线，团队版每月85元含1000GB流量。支持按年付费降低月均成本，账号可在多设备同时在线。",
+          "AI_HERO_SUBTITLE": "天航多设备加速订阅",
+          "AI_HERO_INTRO": "天航提供基础版、旗舰版与团队版三档海外加速订阅，流量从100GB到1000GB，兼顾个人流媒体、游戏加速与小团队办公。各档位支持同时在线设备数不同，可按月或按年付费。",
+          "AI_VISUAL_TITLE": "天航订阅档位速览",
+          "AI_HIGHLIGHT_1": "100GB至1000GB多档流量",
+          "AI_HIGHLIGHT_2": "3台至20台设备同时在线",
+          "AI_HIGHLIGHT_3": "IPLC专线游戏加速选项",
+          "AI_FEATURES_TITLE": "天航核心特点",
+          "AI_FEATURES_INTRO": "从用量、设备数和线路类型三个角度了解天航订阅。",
+          "AI_FEATURE_TITLE_1": "按用量选档位",
+          "AI_FEATURE_TEXT_1": "每月100GB适合轻度浏览，300GB覆盖流媒体与游戏，1000GB支持多人团队。",
+          "AI_FEATURE_TITLE_2": "设备数量匹配",
+          "AI_FEATURE_TEXT_2": "基础版支持3台设备，旗舰版5台，团队版20台，按实际同时在线设备数选择。",
+          "AI_FEATURE_TITLE_3": "年付降低月均",
+          "AI_FEATURE_TEXT_3": "年付方案为月付十个月价格，长期使用可选按年付费节省开支。",
+          "AI_CLIENTS_TITLE": "设备客户端选择",
+          "AI_CLIENTS_INTRO": "Windows、macOS、Android、iOS等系统可安装对应客户端，按设备系统选择版本。",
+          "AI_PLANS_TITLE": "天航套餐对比",
+          "AI_PLANS_INTRO": "对比基础版、旗舰版与团队版的流量、设备数和价格，按需选择。",
+          "AI_GUIDE_TITLE": "天航订阅配置步骤",
+          "AI_GUIDE_INTRO": "完成选择与配置需要三个步骤，操作前确认设备和用量需求。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据每月流量和同时在线设备数，在天航三档套餐中确定适合的档位。",
+          "AI_STEP_TITLE_2": "查看设备适配",
+          "AI_STEP_TEXT_2": "确认常用设备的操作系统与客户端支持情况，选择对应版本。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "依照客户端文档导入天航订阅信息，连接后即可使用加速线路。",
+          "AI_FAQ_TITLE": "天航订阅常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "天航套餐如何选择？",
+          "AI_FAQ_ANSWER_1": "按每月流量和同时在线设备数判断。轻度使用选基础版100GB，流媒体和游戏选旗舰版300GB，团队多人选团队版1000GB。",
+          "AI_FAQ_QUESTION_2": "天航订阅支持几台设备？",
+          "AI_FAQ_ANSWER_2": "基础版支持3台设备同时在线，旗舰版5台，团队版20台。同一时间超出数量限制可能导致连接中断。",
+          "AI_FAQ_QUESTION_3": "年付比月付便宜多少？",
+          "AI_FAQ_ANSWER_3": "年付方案按十个月月付价格计算，基础版150元每年，旗舰版350元每年，团队版850元每年，相当于省去两个月费用。",
+          "AI_FAQ_QUESTION_4": "天航订阅如何导入客户端？",
+          "AI_FAQ_ANSWER_4": "在客户端找到订阅导入入口，粘贴天航提供的订阅链接或配置信息，保存后更新节点即可使用。",
+          "AI_FAQ_QUESTION_5": "旗舰版适合哪些场景？",
+          "AI_FAQ_ANSWER_5": "旗舰版包含IPLC专线，适合对延迟敏感的游戏加速和原生流媒体解锁，同时5台设备满足个人多终端切换。",
+          "AI_CLOSING_TITLE": "按需订阅天航",
+          "AI_CLOSING_TEXT": "比较三档套餐的流量与设备数，选择适合你的天航订阅方案。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "yuxhwid.cn",
+    "host": "yuxhwid.cn"
+  },
+  "file_hashes": {
+    "index.html": "477d24141264116e65a53a5ed82b22fce83ee1adcae22a8dc7bc706a7d9117c4",
+    "sitemap.xml": "8b57d5cf2180be7b72c55db0436a1bc3c4c1ee42296404d4d6f4eae7d4484e50",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "152d3311827beb6ee89010132d1361dc34d2d53f90c55318d12ddba1ac254d97",
+    "robots.txt": "e69dba444276e38c5677082840a58fc2643e2b5f6471d1bdc3c69bf52b6e3ff7",
+    "74916941a8da84889de92e794df6e7f3.txt": "565a06546017a1da75e546109daceb4e166f49212960f2d71eb93ca591b06a92"
+  },
+  "revision": "cbe6b4f8b72fbaaca92097a1b2f0b98f31351a78eb7d6eb80efc7cc54f663c05"
+}
